@@ -1,7 +1,7 @@
 # C2C_Car_Rental
 
 ## Idea:
-A platform to facilitate renting cars for both car owners and car drivers. The system will help users find a car to rent directly from the car owner without a “middle-man” and allow anyone with A car to further benefit from it and generate an additional income by putting it up for rent by the hour or by the day.
+A platform to facilitate renting cars for both car owners and car drivers. The system will help users find a car to rent directly from the car owner without a “middle-man” and allow anyone with a car to further benefit from it and generate an additional income by putting it up for rent.
 
 ## Inspiration:
 Facilitate the renting process while reducing car renting costs. Also, the C2C car rental business model is not represented enough(if at all) in KSA.
