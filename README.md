@@ -47,7 +47,7 @@ The project helps reduce car renting costs and gas costs for users(the person wh
 - Read, update, and delete users.
 
 ### Car Evaluator
-#### Role: an individual from a "Taqdeer" centre to evaluate the car before and after renting upon the car owner's request.
+#### Role: an individual from a "Taqdeer" centre that evaluate the car before and after renting upon the car owner's request.
 - Update Car owner and Admin if the car meet the safety/standard requirements.
 <br>For more info about "Taqdeer" centre visit: [Taqdeer](https://taqeem.gov.sa/news/%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D9%85%D8%B1%D8%A7%D9%83%D8%B2/ "Taqdeer")
 
