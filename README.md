@@ -1,13 +1,13 @@
 # C2C_Car_Rental
-[Idea](https://github.com/jawaher-alqotym/C2C_Car_Rental/edit/main/README.md#idea "Idea")
+[Idea](https://github.com/jawaher-alqotym/C2C_Car_Rental/README.md#idea "Idea")
 
-[Inspiration](https://github.com/jawaher-alqotym/C2C_Car_Rental/edit/main/README.md#inspiration "Inspiration")
+[Inspiration](https://github.com/jawaher-alqotym/C2C_Car_Rental/README.md#inspiration "Inspiration")
 
-[Impact&Challenges](https://github.com/jawaher-alqotym/C2C_Car_Rental/edit/main/README.md#project-impact-and-challenges "Impact&Challenges")
+[Impact&Challenges](https://github.com/jawaher-alqotym/C2C_Car_Rental/README.md#project-impact-and-challenges "Impact&Challenges")
 
-[Services&Features](https://github.com/jawaher-alqotym/C2C_Car_Rental/edit/main/README.md#list-of-services--features "Services&Features")
+[Services&Features](https://github.com/jawaher-alqotym/C2C_Car_Rental/README.md#list-of-services--features "Services&Features")
 
-[User Stories](https://github.com/jawaher-alqotym/C2C_Car_Rental/edit/main/README.md#user-stories "User Stories")
+[User Stories](https://github.com/jawaher-alqotym/C2C_Car_Rental/README.md#user-stories "User Stories")
 ## Idea:
 A platform to facilitate renting cars for both car owners and car drivers. The system will help users find a car to rent directly from the car owner without a “middle-man” and allow anyone with a car to further benefit from it and generate an additional income by putting it up for rent.
 
