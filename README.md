@@ -3,7 +3,7 @@
 
 [Inspiration](https://github.com/jawaher-alqotym/C2C_Car_Rental/edit/main/README.md#inspiration "Inspiration")
 
-[Impact&Challenges](https://github.com/jawaher-alqotym/C2C_Car_Rental/edit/main/README.md#project-impact-and-challenges "Impact&Challenges")
+[Impact&Challenges](https://github.com/jawaher-alqotym/C2C_Car_Rental/main/README.md#project-impact-and-challenges "Impact&Challenges")
 
 [Services&Features](https://github.com/jawaher-alqotym/C2C_Car_Rental/edit/main/README.md#list-of-services--features "Services&Features")
 
