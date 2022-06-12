@@ -9,23 +9,23 @@
 
 [User Stories](https://github.com/jawaher-alqotym/C2C_Car_Rental/blob/main/README.md#user-stories "User Stories")
 ## Idea:
-A platform to facilitate renting cars for both car owners and car drivers. The system will help users find a car to rent directly from the car owner without a “middle-man” and allow anyone with a car to further benefit from it and generate an additional income by putting it up for rent.
+A platform to facilitate renting cars for both vehicle owners and vehicle drivers. The system will help users find a vehicle to rent directly from the vehicle owner without a “middle-man” and allow anyone with a vehicle to further benefit from it and generate an additional income by putting it up for rent.
 
 ## Inspiration:
-Facilitate the renting process while reducing car renting costs. Also, the C2C car rental business model is not represented enough(if at all) in KSA.
+Facilitate the renting process while reducing vehicle renting costs. Also, the C2C vehicle rental business model is not represented enough(if at all) in KSA.
 
 ## Project Impact and challenges:
-The project helps reduce car renting costs and gas costs for users(the person who rents the car will pay for the gas). Although the idea is promising it has some weaknesses like authenticating the car owner and car rentee. Not many people would be happy to see strangers drive their car without being sure of their identity and people are reluctant to pay without a guarantee of the existence of that car. However, we can get around these weaknesses by requiring both parties to register an account to establish some credentials and provide a personal page for both with reviews.
+The project helps reduce vehicle renting costs and gas costs for users(the person who rents the vehicle will pay for the gas). Although the idea is promising it has some weaknesses like authenticating the vehicle owner and vehicle rentee. Not many people would be happy to see strangers drive their vehicle without being sure of their identity and people are reluctant to pay without a guarantee of the existence of that vehicle. However, we can get around these weaknesses by requiring both parties to register an account to establish some credentials and provide a personal page for both with reviews.
 
 ## List of Services / Features:
-- Manage renting cars.
-- Manage the car evaluation process.
+- Manage renting vehicle.
+- Manage the vehicle evaluation process.
 
 
 ## User Stories
-- Type of users: car owner, car rentee, admin, and car Evaluator.
+- Type of users: vehicle owner, vehicle rentee, admin, and vehicle Evaluator.
 
-### Car Owner
+### vehicle Owner
 #### Role: offer their car for rent.
 - Create, Read, Update, Delete Cars.
 - Create, Read, Update, and Delete Reviews about the people who rented their car.
@@ -33,7 +33,7 @@ The project helps reduce car renting costs and gas costs for users(the person wh
 - Create a profile.
 
 
-### Car Rentee
+### vehicle Rentee
 #### Role: view and rent cars.
 - View cars for rent.
 - Create, Read, and delete a rent request.
