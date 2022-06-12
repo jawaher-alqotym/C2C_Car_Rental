@@ -1,4 +1,4 @@
-# C2C_Car_Rental
+# C2C_Vehicle_Rental
 [Idea](https://github.com/jawaher-alqotym/C2C_Car_Rental/blob/main/README.md#idea "Idea")
 
 [Inspiration](https://github.com/jawaher-alqotym/C2C_Car_Rental/blob/main/README.md#inspiration "Inspiration")
